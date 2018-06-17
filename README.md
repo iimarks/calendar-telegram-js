@@ -74,7 +74,3 @@ The `options` object has the following properties:
 - `maxDate`: maximum selectable date (there is a setter on Calendar object, too)
 
 
-Example
------------
-
-You can find [here](./bot/index.js) the code for a working [bot](t.me/CalendarTelegrafBot.).
